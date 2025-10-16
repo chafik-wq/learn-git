@@ -4,3 +4,4 @@ to learn pull
 to test pull
 test git fetch
 git merge origin/main
+Test push from local
